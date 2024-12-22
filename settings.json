@@ -1,0 +1,10 @@
+{
+    "pomodoro_sessions": 4,
+    "session_duration": 300,
+    "short_breaks": 300,
+    "long_breaks": 900,
+    "sessions_before_long_break": 4,
+    "sessions_completed": 6,
+    "remaining_time": 212,
+    "is_timer_running": true
+}
